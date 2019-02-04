@@ -1,15 +1,16 @@
 html, body{
 	font-size:16px;
-	color: #dfdfdf;
-	background-color: #063647; 
+	color: #000000;
+	background-color: #FFFFFF;
+	font-family: Open Sans;
 }
 
 a {
-  color: #00d1b2;
+  color: #000000;
 }
 
 a:hover {
-  color: #00d1b2;
+  color: #000000;
 }
 
 section{
@@ -18,28 +19,28 @@ section{
 }
 
 .section-1 {
-	background: #063647;
+	background: #FFFFFF;
 }
 
 .section-2 {
-	background-color: #052D3D;
+	background-color: #FFFFFF;
 }
 
 .section-3 {
-	background-color: #0E282E;
+	background-color: #FFFFFF;
 }
 
 .section-4 {
-	background-color: #063647;
+	background-color: #FFFFFF;
 	padding: 0.2rem;
 }
 
 a.nav-item {
-	color: #dfdfdf;
+	color: #696969;
 }
 
 a.nav-item:hover {
-	color: #fff;
+	color: #696969;
 }
 
 .avatar{
@@ -48,6 +49,18 @@ a.nav-item:hover {
 }
 
 .intro-description{
+	padding-top: 1rem;
+}
+
+.free-time-description{
+	padding-top: 1rem;
+}
+
+.interests-description{
+	padding-top: 1rem;
+}
+
+.tech-description{
 	padding-top: 1rem;
 }
 
@@ -69,16 +82,34 @@ a.nav-item:hover {
 
 .box {
 	background-color: transparent;
-	border: 2px solid rgba(7, 59, 79, 0.5);
+	border: 1px solid rgba(7, 59, 79, 0.5);
 }
 
 .title {
-	color: #fff;
+	color: #000000;
 	text-align: left;
 	margin-bottom: 2rem;
 }
 
 .intro {
+	text-align: justify;
+	width: 80%;
+	margin: 0 auto;
+}
+
+.free-time {
+	text-align: justify;
+	width: 80%;
+	margin: 0 auto;
+}
+
+.interests {
+	text-align: justify;
+	width: 80%;
+	margin: 0 auto;
+}
+
+.tech {
 	text-align: justify;
 	width: 80%;
 	margin: 0 auto;
