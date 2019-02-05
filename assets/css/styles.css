@@ -56,10 +56,6 @@ a.nav-item:hover {
 	padding-top: 1rem;
 }
 
-.interests-description{
-	padding-top: 1rem;
-}
-
 .tech-description{
 	padding-top: 1rem;
 }
@@ -82,7 +78,7 @@ a.nav-item:hover {
 
 .box {
 	background-color: transparent;
-	border: 1px solid rgba(7, 59, 79, 0.5);
+	border: 0.0px solid rgb(245, 245, 240);
 }
 
 .title {
@@ -98,12 +94,6 @@ a.nav-item:hover {
 }
 
 .free-time {
-	text-align: justify;
-	width: 80%;
-	margin: 0 auto;
-}
-
-.interests {
 	text-align: justify;
 	width: 80%;
 	margin: 0 auto;
