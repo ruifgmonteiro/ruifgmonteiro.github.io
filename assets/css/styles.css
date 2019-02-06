@@ -52,10 +52,6 @@ a.nav-item:hover {
 	padding-top: 1rem;
 }
 
-.free-time-description{
-	padding-top: 1rem;
-}
-
 .tech-description{
 	padding-top: 1rem;
 }
@@ -88,12 +84,6 @@ a.nav-item:hover {
 }
 
 .intro {
-	text-align: justify;
-	width: 80%;
-	margin: 0 auto;
-}
-
-.free-time {
 	text-align: justify;
 	width: 80%;
 	margin: 0 auto;
