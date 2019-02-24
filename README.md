@@ -1,2 +1,2 @@
 # ruifgmonteiro.github.io
-My personal website (in progress).
+My personal website.
